@@ -1,0 +1,41 @@
+@charset "ISO-8859-1";
+*
+    {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    .html-body {
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .container1 {
+      width: 700px;
+      overflow: hidden;
+      /* box-shadow: 0 0 15px silver; */
+    }
+
+    .img1 {
+      width: 550px;
+      height: 382px;
+    }
+
+    .col2
+    {
+        width: 600px;
+    }
+
+    .al {
+      position: absolute;
+      top: 35%;
+    }
+
+    .el {
+      padding-right: 40px ;
+      padding-left: 34px ;
+      position: absolute;
+      top: 60%;
+    }
