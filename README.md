@@ -19,4 +19,4 @@ Bootstrap
 
 Video Presentation Link:
 ------------------------
-https://www.linkedin.com/posts/gbhaskar2255_java-j2ee-jdbc-activity-7227002078252965888-yEwO?utm_source=share&utm_medium=member_desktop
+https://www.linkedin.com/feed/update/urn:li:activity:7257814304274415618
