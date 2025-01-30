@@ -1,5 +1,5 @@
 # Employee_Management_System-MIni_prjt
-This is an Employee Management System project ( MIN project ) developed using java, J2EE technologies such as JDBC, Servlets, JSP and used HTML, CSS , BOOTSTRAP and Oracle DataBase.
+This is an Employee Management System project ( MIN project ) developed using java, J2EE technologies such as JDBC, Servlets, JSP and Oracle DataBase.
 
 Overview of the Project :
 -------------------------
@@ -12,9 +12,6 @@ Technologies used in this project :
 -----------------------------------
 Java
 J2EE Technologies ( JDBC, Servlets, JSP )
-HTML
-CSS
-Bootstrap
 
 
 Video Presentation Link:
